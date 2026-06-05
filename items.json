@@ -1,0 +1,76 @@
+{
+  "tags": [
+    { "id": "figures",   "en": "Figures",     "ar": "مجسمات" },
+    { "id": "keychains", "en": "Keychains",   "ar": "ميداليات" },
+    { "id": "home",      "en": "Home Decor",  "ar": "ديكور منزلي" },
+    { "id": "gadgets",   "en": "Gadgets",     "ar": "أدوات" }
+  ],
+  "items": [
+    {
+      "id": "1",
+      "code": "DRG-001",
+      "name": {
+        "en": "Articulated Dragon",
+        "ar": "تنين متحرك المفاصل"
+      },
+      "description": {
+        "en": "Flexible printed dragon with movable joints. Great desk toy.",
+        "ar": "تنين مطبوع مرن بمفاصل متحركة. لعبة مكتبية رائعة."
+      },
+      "price": 4.500,
+      "available": true,
+      "popularity": 95,
+      "added": "2026-06-01",
+      "tags": ["figures", "gadgets"],
+      "preview": "https://raw.githubusercontent.com/Tuff-Ish/Bus/refs/heads/main/Dragon.gif",
+      "gallery": [
+        "https://raw.githubusercontent.com/Tuff-Ish/Bus/refs/heads/main/dragon1.webp",
+        "https://raw.githubusercontent.com/Tuff-Ish/Bus/refs/heads/main/dragon2.webp",
+        "https://raw.githubusercontent.com/Tuff-Ish/Bus/refs/heads/main/dragon3.webp"
+      ]
+    },
+    {
+      "id": "2",
+      "code": "KEY-014",
+      "name": {
+        "en": "Custom Name Keychain",
+        "ar": "ميدالية بالاسم" 
+      },
+      "description": {
+        "en": "Personalized keychain with your name in any color.",
+        "ar": "ميدالية مخصصة باسمك وبأي لون تختاره."
+      },
+      "price": 1.000,
+      "available": true,
+      "popularity": 70,
+      "added": "2026-05-20",
+      "tags": ["keychains"],
+      "preview": "https://raw.githubusercontent.com/Tuff-Ish/Bus/refs/heads/main/keychain.jpeg",
+      "gallery": [
+        "https://raw.githubusercontent.com/Tuff-Ish/Bus/refs/heads/main/keychain1.webp",
+        "https://raw.githubusercontent.com/Tuff-Ish/Bus/refs/heads/main/keychain2.jpeg"
+      ]
+    },
+    {
+      "id": "3",
+      "code": "VAS-007",
+      "name": {
+        "en": "Spiral Vase",
+        "ar": "مزهرية حلزونية"
+      },
+      "description": {
+        "en": "Decorative spiral vase, watertight finish.",
+        "ar": "مزهرية حلزونية للزينة بتشطيب مقاوم للماء."
+      },
+      "price": 3.250,
+      "available": false,
+      "popularity": 40,
+      "added": "2026-04-10",
+      "tags": ["home"],
+      "preview": "https://raw.githubusercontent.com/Tuff-Ish/Bus/refs/heads/main/vase.webp",
+      "gallery": [
+        "https://raw.githubusercontent.com/Tuff-Ish/Bus/refs/heads/main/vase1.webp"
+      ]
+    }
+  ]
+}
